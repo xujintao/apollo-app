@@ -72,7 +72,7 @@ func (c *config) GetDNSID() string {
 }
 
 func (c *config) GetDBMaxConn() string {
-	mu.Lock()
+	mu.RLock()
 	defer mu.RUnlock()
 	return c.DB.MaxConn
 }
