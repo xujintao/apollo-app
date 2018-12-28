@@ -1,0 +1,5 @@
+github.com/mitchellh/mapstructure v1.1.2/go.mod h1:FVVH3fgwuzCH5S8UJGiWEs2h04kUh9fWfEaFds41c1Y=
+github.com/xujintao/agollo v0.0.0-20181228033236-47a518f5a0d1 h1:AOPv2JV+i4CWjFsomY1mFHp64NDkBUVVHEtqvV6KdVk=
+github.com/xujintao/agollo v0.0.0-20181228033236-47a518f5a0d1/go.mod h1:pynjWIQnjdXWt+voQCPk7NlSfbCB6JIAP2S0MjgNin4=
+gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=
+gopkg.in/yaml.v2 v2.2.2/go.mod h1:hI93XBmqTisBFMUTm0b8Fm+jr3Dg1NNxqwp+5A1VGuI=

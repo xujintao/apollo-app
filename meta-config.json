@@ -1,0 +1,6 @@
+{
+    "appId": "001",
+    "cluster": "default",
+    "namespaceNames": ["application","dnspod1","dnspod2.yaml","db"],
+    "ip": "localhost:8080"
+}
